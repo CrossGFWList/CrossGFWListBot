@@ -1,3 +1,3 @@
-module github.com/crossgfwlist/crossgfwlistbot
+module https://github.com/CrossGFWList/CrossGFWListBot
 
 go 1.17
